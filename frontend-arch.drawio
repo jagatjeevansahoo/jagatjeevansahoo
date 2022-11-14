@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T08:16:05.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.3" etag="mhWa15K4CRLxFfRK6Apl" type="github"><diagram id="-rsd5UOiWy9jyTAU3cwm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-14T11:24:00.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZdNLefm6AYQ20gvfI-Xi" version="20.5.3" type="github" pages="2">
+  <diagram name="frontend-components" id="Yclum5GaWB9YdnRcci6Y">
+    <mxGraphModel dx="2076" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Kc_LJN7SwA_--HTSMM4O-0" />
+        <mxCell id="Kc_LJN7SwA_--HTSMM4O-1" parent="Kc_LJN7SwA_--HTSMM4O-0" />
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-0" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=20;fontColor=#808080;strokeColor=#808080;fillColor=none;gradientColor=none;" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-130" y="480" width="850" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-8" value="&lt;font&gt;Experience UI platform&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=20;fontColor=#FFFFFF;strokeColor=#808080;fillColor=#808080;gradientColor=none;" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-130" y="450" width="850" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-36" value="PWA : Leverage some mobile capabilities in the web for better user engagement." style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="440" y="550" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-37" value="Data-driven UI for lesser developer interference and more business values" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="438" y="490" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-44" value="Multi-lingual support&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="438" y="610" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-45" value="Configurations at various levels for functionality" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-120" y="650" width="830" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-46" value="Themes" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="160" y="611" width="272" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-29" value="API Client SDK for better&amp;nbsp; API&amp;nbsp; calls handling" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="160" y="550" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-30" value="Light weight BFF for data&amp;nbsp; massaging to make the component fast" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="160" y="490" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-4" value="Design System" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-120" y="611" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-5" value="Core UI Components" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-120" y="571" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-6" value="Micro-frontends/sites" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-120" y="491" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-7" value="Business UI Components" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-120" y="531" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-41" value="Security : Checks for End of life, modules used" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="340" y="690" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-42" value="Automated Testing : Unit testing, Visual Regression testing, e2e testing&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-120" y="690" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-47" value="SEO" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;horizontal=1;" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="-120" y="740" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-48" value="CMS" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;horizontal=1;" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="170" y="740" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EP1gxd-YTBWEPIi2zR5S-49" value="User experience insights &amp;amp; dashboards" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="Kc_LJN7SwA_--HTSMM4O-1">
+          <mxGeometry x="420" y="740" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="DRY" id="rf85TmJHdUS_El5Pn_WM">
+    <mxGraphModel dx="1892" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-0" />
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-1" parent="zGwPkA8JbVIBbAJs_qck-0" />
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=20;fontColor=#808080;strokeColor=#808080;fillColor=none;gradientColor=none;" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-130" y="480" width="850" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-3" value="&lt;font&gt;Experience UI platform&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=20;fontColor=#FFFFFF;strokeColor=#808080;fillColor=#808080;gradientColor=none;" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-130" y="450" width="850" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-4" value="PWA : Leverage some mobile capabilities in the web for better user engagement." style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="440" y="550" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-5" value="Data-driven UI for lesser developer interference and more business values" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="438" y="490" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-6" value="Multi-lingual support&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="438" y="610" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-7" value="Configurations at various levels for functionality" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-120" y="650" width="830" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-8" value="Themes" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="160" y="611" width="272" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-9" value="API Client SDK for better&amp;nbsp; API&amp;nbsp; calls handling" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="160" y="550" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-10" value="Light weight BFF for data&amp;nbsp; massaging to make the component fast" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="160" y="490" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-11" value="Design System" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#F26170;strokeColor=#F26170;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-120" y="611" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-12" value="Core UI Components" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#F26170;strokeColor=#F26170;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-120" y="571" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-13" value="Micro-frontends/sites" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#F26170;strokeColor=#F26170;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-120" y="491" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-14" value="Business UI Components" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#F26170;strokeColor=#F26170;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-120" y="531" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-15" value="Security : Checks for End of life, modules used" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="340" y="690" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-16" value="Automated Testing : Unit testing, Visual Regression testing, e2e testing&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-120" y="690" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-17" value="SEO" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;horizontal=1;" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="-120" y="740" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-18" value="CMS" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;horizontal=1;" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="170" y="740" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zGwPkA8JbVIBbAJs_qck-19" value="User experience insights &amp;amp; dashboards" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#808080;strokeColor=#808080;fillColor=default;fontFamily=Bitter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBitter;fontSize=14;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="zGwPkA8JbVIBbAJs_qck-1">
+          <mxGeometry x="420" y="740" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
